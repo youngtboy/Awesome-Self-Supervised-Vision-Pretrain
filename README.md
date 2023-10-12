@@ -3,11 +3,11 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 ## 2020
 
-- **[MoCov1]** RMomentum Contrast for Unsupervised Visual Representation Learningn | **[CVPR'20]** |[`[paper]`](https://arxiv.org/abs/1911.05722) [`[code]`](https://github.com/facebookresearch/moco) 
+- **[MoCov1]** 🌟 Momentum Contrast for Unsupervised Visual Representation Learningn | **[CVPR'20]** |[`[paper]`](https://arxiv.org/abs/1911.05722) [`[code]`](https://github.com/facebookresearch/moco) 
 
-- **[SimCLRv1]** A Simple Framework for Contrastive Learning of Visual Representations | **[ICML'20]** | [`[paper]`](https://arxiv.org/abs/2002.05709) [`[code]`](https://github.com/google-research/simclr)
+- **[SimCLRv1]** 🌟 A Simple Framework for Contrastive Learning of Visual Representations | **[ICML'20]** | [`[paper]`](https://arxiv.org/abs/2002.05709) [`[code]`](https://github.com/google-research/simclr)
 
-- **[MoCov2]** Improved Baselines with Momentum Contrastive Learning | **[axiv'20]** | [`[paper]`](https://arxiv.org/abs/2003.04297) [`[code]`](https://github.com/facebookresearch/moco)
+- **[MoCov2]** Improved Baselines with Momentum Contrastive Learning | **[arxiv'20]** | [`[paper]`](https://arxiv.org/abs/2003.04297) [`[code]`](https://github.com/facebookresearch/moco)
 
 - **[BYOL]** Bootstrap your own latent: A new approach to self-supervised Learning | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2006.07733) [`[code]`](https://github.com/deepmind/deepmind-research)
 
@@ -19,31 +19,35 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[DenseCL]** Dense Contrastive Learning for Self-Supervised Visual Pre-Training | **[CVPR'21]** | [`[paper]`](https://arxiv.org/abs/2011.09157) [`[code]`](https://github.com/WXinlong/DenseCL)
 
-- **[SimSiam]** Exploring Simple Siamese Representation Learning | **[CVPR'21]** [`[paper]`](https://arxiv.org/abs/2011.10566) [`[code]`](https://github.com/facebookresearch/simsiam)
+- **[SimSiam]** 🌟 Exploring Simple Siamese Representation Learning | **[CVPR'21]** [`[paper]`](https://arxiv.org/abs/2011.10566) [`[code]`](https://github.com/facebookresearch/simsiam)
 
 ## 2021
 
 - **[SEED]** SEED: Self-supervised Distillation For Visual Representation | **[ICLR'21]** | [`[paper]`](https://arxiv.org/abs/2101.04731)
 
+- **[CLIP]** 🌟 Learning Transferable Visual Models From Natural Language Supervision | **[ICML'21]** | [`[paper]`](https://arxiv.org/abs/2103.00020) [`[code]`](https://github.com/OpenAI/CLIP)
+
 - **[Barlow Twins]** Barlow Twins: Self-Supervised Learning via Redundancy Reduction | **[ICML'21]** | [`[paper]`](https://arxiv.org/abs/2103.03230) [`[code]`](https://github.com/facebookresearch/barlowtwins)
 
-- **[MoCov3]** An Empirical Study of Training Self-Supervised Vision Transformers | **[ICCV'21]** | [`[paper]`](https://arxiv.org/abs/2104.02057) [`[code]`](https://github.com/facebookresearch/moco-v3)
+- **[MoCov3]** 🌟 An Empirical Study of Training Self-Supervised Vision Transformers | **[ICCV'21]** | [`[paper]`](https://arxiv.org/abs/2104.02057) [`[code]`](https://github.com/facebookresearch/moco-v3)
 
 - **[DisCo]** DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2104.09124) [`[code]`](https://github.com/Yuting-Gao/DisCo-pytorch)
 
-- **[DINOv1]** Emerging Properties in Self-Supervised Vision Transformers | **[ICCV'21]** |[`[paper]`](https://arxiv.org/abs/2104.14294) [`[code]`](https://github.com/facebookresearch/dino)
+- **[DINOv1]** 🌟 Emerging Properties in Self-Supervised Vision Transformers | **[ICCV'21]** |[`[paper]`](https://arxiv.org/abs/2104.14294) [`[code]`](https://github.com/facebookresearch/dino)
+
+- **[VICReg]** VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2105.04906) [`[code]`](https://github.com/facebookresearch/vicreg)
 
 - **[MST]** MST: Masked Self-Supervised Transformer for Visual Representation | **[NIPS'21]** | [`[paper]`](https://arxiv.org/abs/2106.05656) 
 
-- **[BEiTv1]** BEiT: BERT Pre-Training of Image Transformers | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2106.08254) [`[code]`](https://github.com/microsoft/unilm)
+- **[BEiTv1]** 🌟 BEiT: BERT Pre-Training of Image Transformers | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2106.08254) [`[code]`](https://github.com/microsoft/unilm)
 
 - **[C-BYOL/C-SimLCR]** Compressive Visual Representations | **[NIPS'21]** | [`[paper]`](https://arxiv.org/abs/2109.12909)
 
-- **[MAE]** Masked Autoencoders Are Scalable Vision Learners | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2111.06377) [`[code]`](https://github.com/facebookresearch/mae)
+- **[MAE]** 🌟 Masked Autoencoders Are Scalable Vision Learners | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2111.06377) [`[code]`](https://github.com/facebookresearch/mae)
 
 - **[iBOT]** iBOT: Image BERT Pre-Training with Online Tokenizer | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2111.07832) [`[code]`](https://github.com/bytedance/ibot)
 
-- **[SimMIM]** SimMIM: A Simple Framework for Masked Image Modeling | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2111.09886) [`[code]`](https://github.com/microsoft/SimMIM)
+- **[SimMIM]** 🌟 SimMIM: A Simple Framework for Masked Image Modeling | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2111.09886) [`[code]`](https://github.com/microsoft/SimMIM)
 
 - **[PeCo]** PeCo：Perceptual Codebook for BERT Pre-training of Vision Transformers | **[AAAI'23]** | [`[paper]`](https://arxiv.org/abs/2111.12710)
 
@@ -65,7 +69,7 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[ConMIM]** Masked Image Modeling with Denoising Contrast | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2205.09616) [`[code]`](https://github.com/TencentARC/ConMIM)
 
-- **[MixMAE]** MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers | [`[paper]`](https://arxiv.org/abs/2205.13137) [`[code]`](https://github.com/Sense-X/MixMIM)
+- **[MixMAE]** MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers | **[CVPR'23]** |[`[paper]`](https://arxiv.org/abs/2205.13137) [`[code]`](https://github.com/Sense-X/MixMIM)
 
 - **[A2MIM]** Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN | **[ICML'23]** | [`[paper]`](https://arxiv.org/abs/2205.13943) [`[code]`](https://github.com/Westlake-AI/A2MIM)
 
@@ -101,7 +105,7 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[MimCo]** MimCo: Masked Image Modeling Pre-training with Contrastive Teacher | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2209.03063)
 
-- **[VICRegL]** VICRegL: Self-Supervised Learning of Local Visual Features | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.01571)
+- **[VICRegL]** VICRegL: Self-Supervised Learning of Local Visual Features | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.01571) [`[code]`](https://github.com/facebookresearch/VICRegL)
 
 - **[U-MAE]** How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.08344) [`[code]`](https://github.com/zhangq327/U-MAE)
 
@@ -123,7 +127,7 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 ## 2023
 
-- [ConvNeXtv2]** ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2301.00808) [`[code]`](https://github.com/facebookresearch/ConvNeXt-V2)
+- **[ConvNeXtv2]** ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2301.00808) [`[code]`](https://github.com/facebookresearch/ConvNeXt-V2)
 
 - **[Spark]** Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2301.03580) [`[code]`](https://github.com/keyu-tian/SparK)
 
@@ -149,8 +153,8 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[ccMIM]** Contextual Image Masking Modeling via Synergized Contrasting without View Augmentation for Faster and Better Visual Pretraining | **[ICLR'23]** | [`[paper]`](https://openreview.net/pdf?id=A3sgyt4HWp) [`[code]`](https://github.com/Sherrylone/ccMIM)
 
-- **[DreamTeacher]** DreamTeacher: Pretraining Image Backbones with Deep Generative Models | **[CVPR'23]** |[`[paper]`](https://arxiv.org/abs/2307.07487)
+- **[DreamTeacher]** DreamTeacher: Pretraining Image Backbones with Deep Generative Models | **[ICCV'23]** |[`[paper]`](https://arxiv.org/abs/2307.07487)
 
 - **[MFF]** Improving Pixel-based MIM by Reducing Wasted Modeling Capability | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2308.00261) [`[code]`](https://github.com/open-mmlab/mmpretrain)
 
-- **[DropPos]** DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2309.03576) [`[code]`](https://github.com/Haochen-Wang409/DropPos)
+- **[DropPos]** DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions | **[NIPS'23]** | [`[paper]`](https://arxiv.org/abs/2309.03576) [`[code]`](https://github.com/Haochen-Wang409/DropPos)
