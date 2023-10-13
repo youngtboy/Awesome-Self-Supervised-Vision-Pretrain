@@ -119,11 +119,11 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[iTPN]** Integrally Pre-Trained Transformer Pyramid Networks | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2211.12735) [`[code]`](https://github.com/sunsmarterjie/iTPN)
 
-- **[SCFS]** Semantics-Consistent Feature Search for Self-Supervised Visual Representation Learning | **[ICCV23]** | [`[paper]`](https://arxiv.org/abs/2212.06486) [`[code]`](https://github.com/skyoux/scfs)
+- **[SCFS]** Semantics-Consistent Feature Search for Self-Supervised Visual Representation Learning | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2212.06486) [`[code]`](https://github.com/skyoux/scfs)
 
 - **[FastMIM]** FastMIM: Expediting Masked Image Modeling Pre-training for Vision | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2212.06593) [`[code]`](https://github.com/ggjy/FastMIM.pytorch)
 
-- **[Scale-MAE]** Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning | **[ICCV23]** | [`[paper]`](https://arxiv.org/abs/2212.14532)
+- **[Scale-MAE]** Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2212.14532)
 
 ## 2023
 
