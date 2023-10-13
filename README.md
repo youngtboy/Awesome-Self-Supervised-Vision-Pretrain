@@ -23,7 +23,7 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 ## 2021
 
-- **[SEED]** SEED: Self-supervised Distillation For Visual Representation | **[ICLR'21]** | [`[paper]`](https://arxiv.org/abs/2101.04731)
+- **[SEED]** SEED: Self-supervised Distillation For Visual Representation | **[ICLR'21]** | [`[paper]`](https://arxiv.org/abs/2101.04731) [`[code]`](https://github.com/zhangyifei01/SEED_ICLR21)
 
 - **[CLIP]** 🌟 Learning Transferable Visual Models From Natural Language Supervision | **[ICML'21]** | [`[paper]`](https://arxiv.org/abs/2103.00020) [`[code]`](https://github.com/OpenAI/CLIP)
 
@@ -41,7 +41,7 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[BEiTv1]** 🌟 BEiT: BERT Pre-Training of Image Transformers | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2106.08254) [`[code]`](https://github.com/microsoft/unilm)
 
-- **[C-BYOL/C-SimLCR]** Compressive Visual Representations | **[NIPS'21]** | [`[paper]`](https://arxiv.org/abs/2109.12909)
+- **[C-BYOL/C-SimLCR]** Compressive Visual Representations | **[NIPS'21]** | [`[paper]`](https://arxiv.org/abs/2109.12909) [`[code]`](https://github.com/google-research/compressive-visual-representations)
 
 - **[MAE]** 🌟 Masked Autoencoders Are Scalable Vision Learners | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2111.06377) [`[code]`](https://github.com/facebookresearch/mae)
 
