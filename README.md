@@ -41,6 +41,8 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[BEiTv1]** 🌟 BEiT: BERT Pre-Training of Image Transformers | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2106.08254) [`[code]`](https://github.com/microsoft/unilm)
 
+- **[SimDis]** Simple Distillation Baselines for Improving Small Self-supervised Models | **[arxiv'21]** | [`[paper]`](https://arxiv.org/abs/2106.11304) [`[code]`](https://github.com/JindongGu/SimDis)
+
 - **[OSS]** Unsupervised Representation Transfer for Small Networks: I Believe I Can Distill On-the-Fly | **[NIPS'21]** | [`[paper]`](https://proceedings.neurips.cc/paper_files/paper/2021/hash/cecd845e3577efdaaf24eea03af4c033-Abstract.html)
 
 - **[C-BYOL/C-SimLCR]** Compressive Visual Representations | **[NIPS'21]** | [`[paper]`](https://arxiv.org/abs/2109.12909) [`[code]`](https://github.com/google-research/compressive-visual-representations)
