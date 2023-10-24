@@ -93,6 +93,8 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[CMAE]** Contrastive Masked Autoencoders are Stronger Vision Learners | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2207.13532) [`[code]`](https://github.com/ZhichengHuang/CMAE)
 
+- **[SMD]** Improving Self-supervised Lightweight Model Learning via Hard-aware Metric Distillation | **[ECCV'22]** | [`[paper]`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910286.pdf) [`[code]`](https://github.com/liuhao-lh/SMD/tree/main)
+
 - **[SdAE]** SdAE: Self-distillated Masked Autoencoder | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2208.00449) [`[code]`](https://github.com/AbrahamYabo/SdAE)
 
 - **[MILAN]** MILAN: Masked Image Pretraining on Language Assisted Representation | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2208.06049) [`[code]`](https://github.com/zejiangh/MILAN)
