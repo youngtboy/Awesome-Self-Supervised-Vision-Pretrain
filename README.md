@@ -29,6 +29,8 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[Barlow Twins]** Barlow Twins: Self-Supervised Learning via Redundancy Reduction | **[ICML'21]** | [`[paper]`](https://arxiv.org/abs/2103.03230) [`[code]`](https://github.com/facebookresearch/barlowtwins)
 
+- **[S3L]** Rethinking Self-Supervised Learning: Small is Beautiful | **[arxiv'21]** | [`[paper]`](https://arxiv.org/abs/2103.13559) [`[code]`](https://github.com/CupidJay/Scaled-down-self-supervised-learning)
+
 - **[MoCov3]** 🌟 An Empirical Study of Training Self-Supervised Vision Transformers | **[ICCV'21]** | [`[paper]`](https://arxiv.org/abs/2104.02057) [`[code]`](https://github.com/facebookresearch/moco-v3)
 
 - **[DisCo]** DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2104.09124) [`[code]`](https://github.com/Yuting-Gao/DisCo-pytorch)
