@@ -1,5 +1,9 @@
 # Self-Supervised Pretraining
-This is a paper list of self-supervised pretrain method. All papers are listed in order of their appearance in arxiv.
+This is a paper list of self-supervised pretrain method. All papers are listed in order of their appearance in arxiv. In addition, articles are also categorized according to different topics. You can click on the links below to get related articles on the topics you are interested in.
+
+
+- [Self-Supervised Pretraining for Light-weight Model](Self-Supervised_Pretraining_for_Light-weight_Model.md)
+- updating ···
 
 ## 2020
 
