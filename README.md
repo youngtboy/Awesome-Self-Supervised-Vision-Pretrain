@@ -56,6 +56,8 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[OSS]** Unsupervised Representation Transfer for Small Networks: I Believe I Can Distill On-the-Fly | **[NIPS'21]** | [`[paper]`](https://proceedings.neurips.cc/paper_files/paper/2021/hash/cecd845e3577efdaaf24eea03af4c033-Abstract.html)
 
+- **[BINGO]** Bag of Instances Aggregation Boosts Self-supervised Distillation | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2107.01691) [`[code]`](https://github.com/haohang96/bingo)
+
 - **[C-BYOL/C-SimLCR]** Compressive Visual Representations | **[NIPS'21]** | [`[paper]`](https://arxiv.org/abs/2109.12909) [`[code]`](https://github.com/google-research/compressive-visual-representations)
 
 - **[MAE]** 🌟 Masked Autoencoders Are Scalable Vision Learners | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2111.06377) [`[code]`](https://github.com/facebookresearch/mae)

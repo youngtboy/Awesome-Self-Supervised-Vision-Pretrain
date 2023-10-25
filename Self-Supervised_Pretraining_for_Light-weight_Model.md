@@ -10,6 +10,8 @@
 
 - **[OSS]** Unsupervised Representation Transfer for Small Networks: I Believe I Can Distill On-the-Fly | **[NIPS'21]** | [`[paper]`](https://proceedings.neurips.cc/paper_files/paper/2021/hash/cecd845e3577efdaaf24eea03af4c033-Abstract.html)
 
+- **[BINGO]** Bag of Instances Aggregation Boosts Self-supervised Distillation | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2107.01691) [`[code]`](https://github.com/haohang96/bingo)
+
 - **[MAE-Lite]** A Closer Look at Self-Supervised Lightweight Vision Transformers | **[ICML'23]** | [`[paper]`](https://arxiv.org/abs/2205.14443) [`[code]`](https://github.com/wangsr126/mae-lite)
 
 - **[SMD]** Improving Self-supervised Lightweight Model Learning via Hard-aware Metric Distillation | **[ECCV'22]** | [`[paper]`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910286.pdf) [`[code]`](https://github.com/liuhao-lh/SMD/tree/main)
