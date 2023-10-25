@@ -1,7 +1,7 @@
 # Self-Supervised Pretraining
 This is a paper list of self-supervised pretrain method. All papers are listed in order of their appearance in arxiv. 
 
-In addition, articles are also categorized according to different topics. You can click on the links below to get related articles on the topics you are interested in.
+In addition, papers are also categorized according to different topics. You can click on the links below to get related papers on the topics you are interested in.
 
 
 - [Self-Supervised Pretraining for Light-weight Model](Self-Supervised_Pretraining_for_Light-weight_Model.md)
@@ -52,7 +52,7 @@ In addition, articles are also categorized according to different topics. You ca
 
 - **[BEiTv1]** 🌟 BEiT: BERT Pre-Training of Image Transformers | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2106.08254) [`[code]`](https://github.com/microsoft/unilm)
 
-- **[SimDis]** Simple Distillation Baselines for Improving Small Self-supervised Models | **[arxiv'21]** | [`[paper]`](https://arxiv.org/abs/2106.11304) [`[code]`](https://github.com/JindongGu/SimDis)
+- **[SimDis]** Simple Distillation Baselines for Improving Small Self-supervised Models | **[ICCVW'21]** | [`[paper]`](https://arxiv.org/abs/2106.11304) [`[code]`](https://github.com/JindongGu/SimDis)
 
 - **[OSS]** Unsupervised Representation Transfer for Small Networks: I Believe I Can Distill On-the-Fly | **[NIPS'21]** | [`[paper]`](https://proceedings.neurips.cc/paper_files/paper/2021/hash/cecd845e3577efdaaf24eea03af4c033-Abstract.html)
 
@@ -151,6 +151,8 @@ In addition, articles are also categorized according to different topics. You ca
 - **[Spark]** Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2301.03580) [`[code]`](https://github.com/keyu-tian/SparK)
 
 - **[I-JEPA]** Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2301.08243) [`[code]`](https://github.com/facebookresearch/ijepa)
+
+- **[RoB]** A Simple Recipe for Competitive Low-compute Self supervised Vision Models | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2301.09451)
 
 - **[Layer Grafted]** Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2302.14138) [`[code]`](https://github.com/VITA-Group/layerGraftedPretraining_ICLR23)
 
