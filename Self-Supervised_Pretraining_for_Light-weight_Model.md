@@ -1,4 +1,4 @@
-# Self-Supervised Pretraining for Light-weight Model
+## Self-Supervised Pretraining for Light-weight Model
 
 - **[SEED]** SEED: Self-supervised Distillation For Visual Representation | **[ICLR'21]** | [`[paper]`](https://arxiv.org/abs/2101.04731) [`[code]`](https://github.com/zhangyifei01/SEED_ICLR21)
 
