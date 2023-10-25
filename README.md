@@ -60,6 +60,8 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[BINGO]** Bag of Instances Aggregation Boosts Self-supervised Distillation | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2107.01691) [`[code]`](https://github.com/haohang96/bingo)
 
+- **[SSL-Small]** On the Efficacy of Small Self-Supervised Contrastive Models without Distillation Signals | **[AAAI'22]** | [`[paper]`](https://arxiv.org/abs/2107.14762) [`[code]`](https://github.com/WOWNICE/ssl-small)
+
 - **[C-BYOL/C-SimLCR]** Compressive Visual Representations | **[NIPS'21]** | [`[paper]`](https://arxiv.org/abs/2109.12909) [`[code]`](https://github.com/google-research/compressive-visual-representations)
 
 - **[MAE]** 🌟 Masked Autoencoders Are Scalable Vision Learners | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2111.06377) [`[code]`](https://github.com/facebookresearch/mae)
