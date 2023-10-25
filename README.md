@@ -1,5 +1,5 @@
 # Self-Supervised Pretraining
-This is a paper list of self-supervised pretrain method. All papers are listed in order of their appearance in arxiv. 
+This is a paper list of self-supervised pretraining method. All papers are listed in order of their appearance in arxiv. 
 
 In addition, papers are also categorized according to different topics. You can click on the links below to get related papers on the topics you are interested in.
 
@@ -43,6 +43,8 @@ In addition, papers are also categorized according to different topics. You can 
 - **[MoCov3]** 🌟 An Empirical Study of Training Self-Supervised Vision Transformers | **[ICCV'21]** | [`[paper]`](https://arxiv.org/abs/2104.02057) [`[code]`](https://github.com/facebookresearch/moco-v3)
 
 - **[DisCo]** DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2104.09124) [`[code]`](https://github.com/Yuting-Gao/DisCo-pytorch)
+
+- **[DoGo]** Distill on the Go: Online knowledge distillation in self-supervised learning | **[CVPRW'21]** | [`[paper]`](https://arxiv.org/abs/2104.09866) [`[code]`](https://github.com/NeurAI-Lab/DoGo)
 
 - **[DINOv1]** 🌟 Emerging Properties in Self-Supervised Vision Transformers | **[ICCV'21]** |[`[paper]`](https://arxiv.org/abs/2104.14294) [`[code]`](https://github.com/facebookresearch/dino)
 
