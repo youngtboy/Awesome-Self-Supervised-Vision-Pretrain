@@ -115,6 +115,8 @@ This is a paper list of self-supervised pretrain method. All papers are listed i
 
 - **[VICRegL]** VICRegL: Self-Supervised Learning of Local Visual Features | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.01571) [`[code]`](https://github.com/facebookresearch/VICRegL)
 
+- **[SSLight]** Effective Self-supervised Pre-training on Low-compute Networks without Distillation | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2210.02808) [`[code]`](https://github.com/saic-fi/SSLight)
+
 - **[U-MAE]** How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.08344) [`[code]`](https://github.com/zhangq327/U-MAE)
 
 - **[i-MAE]** i-MAE: Are Latent Representations in Masked Autoencoders Linearly Separable? | **[axiv'22]** | [`[paper]`](https://arxiv.org/abs/2210.11470) [`[code]`](https://github.com/VILA-Lab/i-mae)
