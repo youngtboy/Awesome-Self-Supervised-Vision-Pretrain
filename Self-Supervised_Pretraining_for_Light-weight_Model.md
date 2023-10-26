@@ -27,6 +27,8 @@ This is a paper list of self-supervised pretraining method for Light-weight Mode
 
 - **[SSLight]** Effective Self-supervised Pre-training on Low-compute Networks without Distillation | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2210.02808) [`[code]`](https://github.com/saic-fi/SSLight)
 
+- **[Light-MoCo]** Establishing a stronger baseline for lightweight contrastive models | **[ICME'23]** | [`[paper]`](https://arxiv.org/abs/2212.07158)  [`[code]`](https://github.com/Linwenye/light-moco) [`[ICLR'23 under-review version]`](https://openreview.net/pdf?id=9CGiwZeCAd)
+
 ## 2023
 
 - **[RoB]** A Simple Recipe for Competitive Low-compute Self supervised Vision Models | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2301.09451)

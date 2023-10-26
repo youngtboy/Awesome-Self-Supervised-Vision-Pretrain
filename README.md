@@ -148,6 +148,8 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[FastMIM]** FastMIM: Expediting Masked Image Modeling Pre-training for Vision | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2212.06593) [`[code]`](https://github.com/ggjy/FastMIM.pytorch)
 
+- **[Light-MoCo]** Establishing a stronger baseline for lightweight contrastive models | **[ICME'23]** | [`[paper]`](https://arxiv.org/abs/2212.07158)  [`[code]`](https://github.com/Linwenye/light-moco) [`[ICLR'23 under-review version]`](https://openreview.net/pdf?id=9CGiwZeCAd)
+
 - **[Scale-MAE]** Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2212.14532)
 
 ## 2023
