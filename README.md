@@ -26,6 +26,8 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[RELICv1]** Representation Learning via Invariant Causal Mechanisms | **[ICLR'21]** | [`[paper]`](https://arxiv.org/abs/2010.07922)
 
+- **[CompRess]** CompRess: Self-Supervised Learning by Compressing Representations | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2010.14713) [`[code]`](https://github.com/UMBCvision/CompReSS)
+
 - **[DenseCL]** Dense Contrastive Learning for Self-Supervised Visual Pre-Training | **[CVPR'21]** | [`[paper]`](https://arxiv.org/abs/2011.09157) [`[code]`](https://github.com/WXinlong/DenseCL)
 
 - **[SimSiam]** 🌟 Exploring Simple Siamese Representation Learning | **[CVPR'21]** [`[paper]`](https://arxiv.org/abs/2011.10566) [`[code]`](https://github.com/facebookresearch/simsiam)

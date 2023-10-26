@@ -1,6 +1,10 @@
 ## Self-Supervised Pretraining for Light-weight Model
 This is a paper list of self-supervised pretraining method for Light-weight Model. All papers are listed in order of their appearance in arxiv. 
 
+## 2020
+
+- **[CompRess]** CompRess: Self-Supervised Learning by Compressing Representations | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2010.14713) [`[code]`](https://github.com/UMBCvision/CompReSS)
+
 ## 2021
 
 - **[SEED]** SEED: Self-supervised Distillation For Visual Representation | **[ICLR'21]** | [`[paper]`](https://arxiv.org/abs/2101.04731) [`[code]`](https://github.com/zhangyifei01/SEED_ICLR21)
