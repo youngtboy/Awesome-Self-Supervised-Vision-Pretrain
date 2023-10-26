@@ -13,6 +13,10 @@ In addition, papers are also categorized according to different topics. You can 
 ## 2020
 
 - **[MoCov1]** 🌟 Momentum Contrast for Unsupervised Visual Representation Learningn | **[CVPR'20]** |[`[paper]`](https://arxiv.org/abs/1911.05722) [`[code]`](https://github.com/facebookresearch/moco) 
+   <details close>
+   <summary>MoCov1 Framework</summary>
+   <p align="center"><img width="75%" src="https://user-images.githubusercontent.com/youngtboy/Awesome-Self-Supervised-Vision-Pretrain/main/.github/images/mocov1.png" /></p>
+   </details>
 
 - **[SimCLRv1]** 🌟 A Simple Framework for Contrastive Learning of Visual Representations | **[ICML'20]** | [`[paper]`](https://arxiv.org/abs/2002.05709) [`[code]`](https://github.com/google-research/simclr)
 
