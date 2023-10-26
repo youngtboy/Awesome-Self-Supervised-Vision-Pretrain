@@ -15,12 +15,20 @@ In addition, papers are also categorized according to different topics. You can 
 - **[MoCov1]** 🌟 Momentum Contrast for Unsupervised Visual Representation Learningn | **[CVPR'20]** |[`[paper]`](https://arxiv.org/abs/1911.05722) [`[code]`](https://github.com/facebookresearch/moco) 
    <details close>
    <summary>MoCov1 Arch</summary>
-   <p align="center"><img width="75%" src="assets/mocov1.png" /></p>
+   <p align="center"><img width="50%" src="assets/MoCov1.png" /></p>
    </details>
 
 - **[SimCLRv1]** 🌟 A Simple Framework for Contrastive Learning of Visual Representations | **[ICML'20]** | [`[paper]`](https://arxiv.org/abs/2002.05709) [`[code]`](https://github.com/google-research/simclr)
+   <details close>
+   <summary>SimCLRv1 Arch</summary>
+   <p align="center"><img width="50%" src="assets/SimCLRv1.png" /></p>
+   </details>
 
 - **[MoCov2]** Improved Baselines with Momentum Contrastive Learning | **[arxiv'20]** | [`[paper]`](https://arxiv.org/abs/2003.04297) [`[code]`](https://github.com/facebookresearch/moco)
+   <details close>
+   <summary>MoCov2 Arch</summary>
+   <p align="center"><img width="50%" src="assets/MoCov2.png" /></p>
+   </details>
 
 - **[BYOL]** Bootstrap your own latent: A new approach to self-supervised Learning | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2006.07733) [`[code]`](https://github.com/deepmind/deepmind-research)
 
