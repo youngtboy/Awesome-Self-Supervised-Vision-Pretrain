@@ -78,6 +78,8 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[RELICv2]** Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet? | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2201.05119)
 
+- **[SimReg]** SimReg: Regression as a Simple Yet Effective Tool for Self-supervised Knowledge Distillation | **[BMVC'21]** | [`[paper]`](https://arxiv.org/abs/2201.05131) [`[code]`](https://github.com/UCDvision/simreg)
+
 - **[RePre]** RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2201.06857)
 
 - **[CAE]** Context Autoencoder for Self-Supervised Representation Learning | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2202.03026) [`[code]`](https://github.com/lxtGH/CAE)

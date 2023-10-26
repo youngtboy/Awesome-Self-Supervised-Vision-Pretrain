@@ -17,9 +17,11 @@ This is a paper list of self-supervised pretraining method for Light-weight Mode
 
 - **[BINGO]** Bag of Instances Aggregation Boosts Self-supervised Distillation | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2107.01691) [`[code]`](https://github.com/haohang96/bingo)
 
-- **[SSL-Small]** On the Efficacy of Small Self-Supervised Contrastive Models without Distillation Signals ｜ **[AAAI'22]** ｜ [`[paper]`](https://arxiv.org/abs/2107.14762) [`[code]`](https://github.com/WOWNICE/ssl-small)
+- **[SSL-Small]** On the Efficacy of Small Self-Supervised Contrastive Models without Distillation Signals | **[AAAI'22]** | [`[paper]`](https://arxiv.org/abs/2107.14762) [`[code]`](https://github.com/WOWNICE/ssl-small)
 
 ## 2022
+
+- **[SimReg]** SimReg: Regression as a Simple Yet Effective Tool for Self-supervised Knowledge Distillation | **[BMVC'21]** | [`[paper]`](https://arxiv.org/abs/2201.05131) [`[code]`](https://github.com/UCDvision/simreg)
 
 - **[MAE-Lite]** A Closer Look at Self-Supervised Lightweight Vision Transformers | **[ICML'23]** | [`[paper]`](https://arxiv.org/abs/2205.14443) [`[code]`](https://github.com/wangsr126/mae-lite)
 
