@@ -15,34 +15,58 @@ In addition, papers are also categorized according to different topics. You can 
 - **[MoCov1]** 🌟 Momentum Contrast for Unsupervised Visual Representation Learningn | **[CVPR'20]** |[`[paper]`](https://arxiv.org/abs/1911.05722) [`[code]`](https://github.com/facebookresearch/moco) 
    <details close>
    <summary>MoCov1 Arch</summary>
-   <p align="center"><img width="50%" src="assets/MoCov1.png" /></p>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278521451-0db281de-9c7c-4292-8e52-2fe125fb4afa.png" /></p>
    </details>
 
 - **[SimCLRv1]** 🌟 A Simple Framework for Contrastive Learning of Visual Representations | **[ICML'20]** | [`[paper]`](https://arxiv.org/abs/2002.05709) [`[code]`](https://github.com/google-research/simclr)
    <details close>
    <summary>SimCLRv1 Arch</summary>
-   <p align="center"><img width="50%" src="assets/SimCLRv1.png" /></p>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278521501-9b04ab1f-e359-4a52-8b0a-c3a794bac1cb.png" /></p>
    </details>
 
 - **[MoCov2]** Improved Baselines with Momentum Contrastive Learning | **[arxiv'20]** | [`[paper]`](https://arxiv.org/abs/2003.04297) [`[code]`](https://github.com/facebookresearch/moco)
    <details close>
    <summary>MoCov2 Arch</summary>
-   <p align="center"><img width="50%" src="assets/MoCov2.png" /></p>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278521477-0f1bacd5-6a46-4c5f-bfac-de6f8ec8898d.png" /></p>
    </details>
 
 - **[BYOL]** Bootstrap your own latent: A new approach to self-supervised Learning | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2006.07733) [`[code]`](https://github.com/deepmind/deepmind-research)
+   <details close>
+   <summary>BYOL Arch</summary>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278522794-990ed1bf-4e4c-4f2b-8346-225ac84b325a.png" /></p>
+   </details>
 
 - **[SimCLRv2]** Big Self-Supervised Models are Strong Semi-Supervised Learners | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2006.10029) [`[code]`](https://github.com/google-research/simclr)
+   <details close>
+   <summary>SimCLRv2 Arch</summary>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278523316-ae6fc7b3-3908-4373-8fe2-21ec808fa9a0.png" /></p>
+   </details>
 
 - **[SwAV]** Unsupervised Learning of Visual Features by Contrasting Cluster Assignments | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2006.09882) [`[code]`](https://github.com/facebookresearch/swav)
+   <details close>
+   <summary>SwAV Arch</summary>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278523332-c1f8a4fb-2c1a-4d93-8465-de449e9be23e.png" /></p>
+   </details>
 
 - **[RELICv1]** Representation Learning via Invariant Causal Mechanisms | **[ICLR'21]** | [`[paper]`](https://arxiv.org/abs/2010.07922)
 
 - **[CompRess]** CompRess: Self-Supervised Learning by Compressing Representations | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2010.14713) [`[code]`](https://github.com/UMBCvision/CompReSS)
+   <details close>
+   <summary>CompRess Arch</summary>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278523953-090209e4-5af6-4fd8-9b3a-45552fec3fef.png" /></p>
+   </details>
 
 - **[DenseCL]** Dense Contrastive Learning for Self-Supervised Visual Pre-Training | **[CVPR'21]** | [`[paper]`](https://arxiv.org/abs/2011.09157) [`[code]`](https://github.com/WXinlong/DenseCL)
+   <details close>
+   <summary>DenseCL Arch</summary>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278523967-c201aa64-d163-43a2-b5e7-a0f43d81b083.png" /></p>
+   </details>
 
 - **[SimSiam]** 🌟 Exploring Simple Siamese Representation Learning | **[CVPR'21]** [`[paper]`](https://arxiv.org/abs/2011.10566) [`[code]`](https://github.com/facebookresearch/simsiam)
+   <details close>
+   <summary>SimSiam Arch</summary>
+   <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278523977-fa990e64-08af-44d6-a7ce-cbdf5766bd0b.png" /></p>
+   </details>
 
 ## 2021
 
