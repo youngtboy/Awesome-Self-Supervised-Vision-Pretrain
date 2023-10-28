@@ -65,7 +65,7 @@ In addition, papers are also categorized according to different topics. You can 
 - **[SimSiam]** 🌟 Exploring Simple Siamese Representation Learning | **[CVPR'21]** [`[paper]`](https://arxiv.org/abs/2011.10566) [`[code]`](https://github.com/facebookresearch/simsiam)
    <details close>
    <summary>SimSiam Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278523977-fa990e64-08af-44d6-a7ce-cbdf5766bd0b.png" /></p>
+   <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/66102178/278523977-fa990e64-08af-44d6-a7ce-cbdf5766bd0b.png" /></p>
    </details>
 
 ## 2021
@@ -100,14 +100,14 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[DoGo]** Distill on the Go: Online knowledge distillation in self-supervised learning | **[CVPRW'21]** | [`[paper]`](https://arxiv.org/abs/2104.09866) [`[code]`](https://github.com/NeurAI-Lab/DoGo)
    <details close>
-   <summary>DisCo Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278527946-df193c6f-f4e0-4372-b0c1-b8e9af397cc2.png" /></p>
+   <summary>DoGo Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278527946-df193c6f-f4e0-4372-b0c1-b8e9af397cc2.png" /></p>
    </details>
 
 - **[DINOv1]** 🌟 Emerging Properties in Self-Supervised Vision Transformers | **[ICCV'21]** |[`[paper]`](https://arxiv.org/abs/2104.14294) [`[code]`](https://github.com/facebookresearch/dino)
    <details close>
    <summary>DINOv1 Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278527957-77176a63-50ae-4048-b939-33b1ff76235c.png" /></p>
+   <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/66102178/278527957-77176a63-50ae-4048-b939-33b1ff76235c.png" /></p>
    </details>
 
 - **[VICReg]** VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2105.04906) [`[code]`](https://github.com/facebookresearch/vicreg)

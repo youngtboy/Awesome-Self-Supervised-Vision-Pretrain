@@ -28,8 +28,8 @@ This is a paper list of self-supervised pretraining method for Light-weight Mode
 
 - **[DoGo]** Distill on the Go: Online knowledge distillation in self-supervised learning | **[CVPRW'21]** | [`[paper]`](https://arxiv.org/abs/2104.09866) [`[code]`](https://github.com/NeurAI-Lab/DoGo)
    <details close>
-   <summary>DisCo Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278527946-df193c6f-f4e0-4372-b0c1-b8e9af397cc2.png" /></p>
+   <summary>DoGo Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278527946-df193c6f-f4e0-4372-b0c1-b8e9af397cc2.png" /></p>
    </details>
 
 
