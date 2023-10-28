@@ -4,6 +4,7 @@ This is a paper list of self-supervised pretraining method for Light-weight Mode
 ## 2020
 
 - **[CompRess]** CompRess: Self-Supervised Learning by Compressing Representations | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2010.14713) [`[code]`](https://github.com/UMBCvision/CompReSS)
+
    <details close>
    <summary>CompRess Arch</summary>
    <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278523953-090209e4-5af6-4fd8-9b3a-45552fec3fef.png" /></p>
