@@ -33,13 +33,13 @@ In addition, papers are also categorized according to different topics. You can 
 - **[BYOL]** Bootstrap your own latent: A new approach to self-supervised Learning | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2006.07733) [`[code]`](https://github.com/deepmind/deepmind-research)
    <details close>
    <summary>BYOL Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278522794-990ed1bf-4e4c-4f2b-8346-225ac84b325a.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278522794-990ed1bf-4e4c-4f2b-8346-225ac84b325a.png" /></p>
    </details>
 
 - **[SimCLRv2]** Big Self-Supervised Models are Strong Semi-Supervised Learners | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2006.10029) [`[code]`](https://github.com/google-research/simclr)
    <details close>
    <summary>SimCLRv2 Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278523316-ae6fc7b3-3908-4373-8fe2-21ec808fa9a0.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278523316-ae6fc7b3-3908-4373-8fe2-21ec808fa9a0.png" /></p>
    </details>
 
 - **[SwAV]** Unsupervised Learning of Visual Features by Contrasting Cluster Assignments | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2006.09882) [`[code]`](https://github.com/facebookresearch/swav)
@@ -53,7 +53,7 @@ In addition, papers are also categorized according to different topics. You can 
 - **[CompRess]** CompRess: Self-Supervised Learning by Compressing Representations | **[NIPS'20]** | [`[paper]`](https://arxiv.org/abs/2010.14713) [`[code]`](https://github.com/UMBCvision/CompReSS)
    <details close>
    <summary>CompRess Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278523953-090209e4-5af6-4fd8-9b3a-45552fec3fef.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278523953-090209e4-5af6-4fd8-9b3a-45552fec3fef.png" /></p>
    </details>
 
 - **[DenseCL]** Dense Contrastive Learning for Self-Supervised Visual Pre-Training | **[CVPR'21]** | [`[paper]`](https://arxiv.org/abs/2011.09157) [`[code]`](https://github.com/WXinlong/DenseCL)
@@ -73,7 +73,7 @@ In addition, papers are also categorized according to different topics. You can 
 - **[SEED]** SEED: Self-supervised Distillation For Visual Representation | **[ICLR'21]** | [`[paper]`](https://arxiv.org/abs/2101.04731) [`[code]`](https://github.com/zhangyifei01/SEED_ICLR21)
    <details close>
    <summary>SEED Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278526068-55cb1d88-2d59-44a3-a998-a2238886f4db.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278526068-55cb1d88-2d59-44a3-a998-a2238886f4db.png" /></p>
    </details>
 
 - **[CLIP]** 🌟 Learning Transferable Visual Models From Natural Language Supervision | **[ICML'21]** | [`[paper]`](https://arxiv.org/abs/2103.00020) [`[code]`](https://github.com/OpenAI/CLIP)
@@ -95,7 +95,7 @@ In addition, papers are also categorized according to different topics. You can 
 - **[DisCo]** DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2104.09124) [`[code]`](https://github.com/Yuting-Gao/DisCo-pytorch)
    <details close>
    <summary>DisCo Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278527927-36c1a899-140d-406e-bb26-251dd32fe3e4.png" /></p>
+   <p align="center"><img width="80%" src="https://user-images.githubusercontent.com/66102178/278527927-36c1a899-140d-406e-bb26-251dd32fe3e4.png" /></p>
    </details>
 
 - **[DoGo]** Distill on the Go: Online knowledge distillation in self-supervised learning | **[CVPRW'21]** | [`[paper]`](https://arxiv.org/abs/2104.09866) [`[code]`](https://github.com/NeurAI-Lab/DoGo)
@@ -119,31 +119,31 @@ In addition, papers are also categorized according to different topics. You can 
 - **[MST]** MST: Masked Self-Supervised Transformer for Visual Representation | **[NIPS'21]** | [`[paper]`](https://arxiv.org/abs/2106.05656) 
    <details close>
    <summary>MST Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278527994-ef413def-2a1d-49bf-ba71-37b64f860155.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278527994-ef413def-2a1d-49bf-ba71-37b64f860155.png" /></p>
    </details>
 
 - **[BEiTv1]** 🌟 BEiT: BERT Pre-Training of Image Transformers | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2106.08254) [`[code]`](https://github.com/microsoft/unilm)
    <details close>
    <summary>BEiTv1 Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278530019-f87113af-3180-4e51-9801-57d8ec426c0c.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278530019-f87113af-3180-4e51-9801-57d8ec426c0c.png" /></p>
    </details>
 
 - **[SimDis]** Simple Distillation Baselines for Improving Small Self-supervised Models | **[ICCVW'21]** | [`[paper]`](https://arxiv.org/abs/2106.11304) [`[code]`](https://github.com/JindongGu/SimDis)
    <details close>
    <summary>SimDis Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278535661-b303cfbe-7a43-4fe3-88cc-babee0a52346.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278535661-b303cfbe-7a43-4fe3-88cc-babee0a52346.png" /></p>
    </details>
 
 - **[OSS]** Unsupervised Representation Transfer for Small Networks: I Believe I Can Distill On-the-Fly | **[NIPS'21]** | [`[paper]`](https://proceedings.neurips.cc/paper_files/paper/2021/hash/cecd845e3577efdaaf24eea03af4c033-Abstract.html)
    <details close>
    <summary>OSS Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278535677-e0169f0f-4461-4e9f-bf96-fa72246a2f4f.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278535677-e0169f0f-4461-4e9f-bf96-fa72246a2f4f.png" /></p>
    </details>
 
 - **[BINGO]** Bag of Instances Aggregation Boosts Self-supervised Distillation | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2107.01691) [`[code]`](https://github.com/haohang96/bingo)
    <details close>
    <summary>BINGO Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278535686-1f9b8ec7-66ac-4735-aad2-6adaa7615f51.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278535686-1f9b8ec7-66ac-4735-aad2-6adaa7615f51.png" /></p>
    </details>
 
 - **[SSL-Small]** On the Efficacy of Small Self-Supervised Contrastive Models without Distillation Signals | **[AAAI'22]** | [`[paper]`](https://arxiv.org/abs/2107.14762) [`[code]`](https://github.com/WOWNICE/ssl-small)
@@ -153,25 +153,25 @@ In addition, papers are also categorized according to different topics. You can 
 - **[MAE]** 🌟 Masked Autoencoders Are Scalable Vision Learners | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2111.06377) [`[code]`](https://github.com/facebookresearch/mae)
    <details close>
    <summary>MAE Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278535696-62557901-d082-4f49-9a24-10d81e06c649.png" /></p>
+   <p align="center"><img width="80%" src="https://user-images.githubusercontent.com/66102178/278535696-62557901-d082-4f49-9a24-10d81e06c649.png" /></p>
    </details>
 
 - **[iBOT]** iBOT: Image BERT Pre-Training with Online Tokenizer | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2111.07832) [`[code]`](https://github.com/bytedance/ibot)
    <details close>
    <summary>iBOT Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278535707-7d10a773-5ca6-4cb7-9e57-99191fa0617f.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278535707-7d10a773-5ca6-4cb7-9e57-99191fa0617f.png" /></p>
    </details>
 
 - **[SimMIM]** 🌟 SimMIM: A Simple Framework for Masked Image Modeling | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2111.09886) [`[code]`](https://github.com/microsoft/SimMIM)
    <details close>
    <summary>SimMIM Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278535722-70041e7f-3da3-4852-8780-f932903c615e.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278535722-70041e7f-3da3-4852-8780-f932903c615e.png" /></p>
    </details>
 
 - **[PeCo]** PeCo：Perceptual Codebook for BERT Pre-training of Vision Transformers | **[AAAI'23]** | [`[paper]`](https://arxiv.org/abs/2111.12710)
    <details close>
    <summary>PeCo Arch</summary>
-   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278535737-2f090bd3-5589-4ffb-8c97-31353ac707e9.png" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278535737-2f090bd3-5589-4ffb-8c97-31353ac707e9.png" /></p>
    </details>
 
 - **[MaskFeat]** Masked Feature Prediction for Self-Supervised Visual Pre-Training | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2112.09133) [`[code]`](https://github.com/facebookresearch/SlowFast)
@@ -183,22 +183,58 @@ In addition, papers are also categorized according to different topics. You can 
 ## 2022
 
 - **[RELICv2]** Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet? | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2201.05119)
+   <details close>
+   <summary>RELICv2 Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278783597-b0ae0798-96d3-4e88-9d8c-73cbdefa5f30.png" /></p>
+   </details>
 
 - **[SimReg]** SimReg: Regression as a Simple Yet Effective Tool for Self-supervised Knowledge Distillation | **[BMVC'21]** | [`[paper]`](https://arxiv.org/abs/2201.05131) [`[code]`](https://github.com/UCDvision/simreg)
+   <details close>
+   <summary>SimReg Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278783628-166af556-d4e4-4db6-929c-bb4638bd8c2e.png" /></p>
+   </details>
 
 - **[RePre]** RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2201.06857)
+   <details close>
+   <summary>RePre Arch</summary>
+   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278783635-70fe848a-8613-44d2-ad25-7fddcd5ebc86.png" /></p>
+   </details>
 
-- **[CAE]** Context Autoencoder for Self-Supervised Representation Learning | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2202.03026) [`[code]`](https://github.com/lxtGH/CAE)
+- **[CAEv1]** Context Autoencoder for Self-Supervised Representation Learning | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2202.03026) [`[code]`](https://github.com/lxtGH/CAE)
+   <details close>
+   <summary>CAEv1 Arch</summary>
+   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278783643-8b4d11fa-acd7-4d71-b02c-075f1917f8c1.png" /></p>
+   </details>
 
 - **[CIM]** Corrupted Image Modeling for Self-Supervised Visual Pre-Training | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2202.03382)
+   <details close>
+   <summary>CIM Arch</summary>
+   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278783648-c93a3c22-b10f-4a53-a89d-25e4a52695da.png" /></p>
+   </details>
 
 - **[MVP]** MVP: Multimodality-guided Visual Pre-training | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2203.05175)
+   <details close>
+   <summary>MVP Arch</summary>
+   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278783650-1915f976-cd80-4dba-a8b4-4bc357dace1e.png" /></p>
+   </details>
 
 - **[ConvMAE]** ConvMAE: Masked Convolution Meets Masked Autoencoders | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2205.03892) [`[code]`](https://github.com/Alpha-VL/ConvMAE)
+   <details close>
+   <summary>ConvMAE Arch</summary>
+   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278783657-82d3f0a5-4f5d-4767-a720-9b51d6b2704d.png" /></p>
+   </details>
 
 - **[ConMIM]** Masked Image Modeling with Denoising Contrast | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2205.09616) [`[code]`](https://github.com/TencentARC/ConMIM)
+   <details close>
+   <summary>ConMIM Arch</summary>
+   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/278783673-1a3be697-056e-4346-a204-a56904ef525e.png" /></p>
+   </details>
 
 - **[MixMAE]** MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers | **[CVPR'23]** |[`[paper]`](https://arxiv.org/abs/2205.13137) [`[code]`](https://github.com/Sense-X/MixMIM)
+   <details close>
+   <summary>MixMAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278783687-7c70612e-8d22-44f1-a58e-2fbc3b74094e.png" /></p>
+   </details>
 
 - **[A2MIM]** Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN | **[ICML'23]** | [`[paper]`](https://arxiv.org/abs/2205.13943) [`[code]`](https://github.com/Westlake-AI/A2MIM)
 
