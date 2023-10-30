@@ -237,42 +237,119 @@ In addition, papers are also categorized according to different topics. You can 
    </details>
 
 - **[A2MIM]** Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN | **[ICML'23]** | [`[paper]`](https://arxiv.org/abs/2205.13943) [`[code]`](https://github.com/Westlake-AI/A2MIM)
+   <details close>
+   <summary>A2MIM Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017037-cfbc32c1-ddf6-4436-a2aa-3521106616a1.png" /></p>
+   </details>
 
 - **[FD]** Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2205.14141) [`[code]`](https://github.com/SwinTransformer/Feature-Distillation)
+   <details close>
+   <summary>FD Arch</summary>
+   <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/66102178/279017061-3e545bb4-aef7-4eb8-93a2-6e22e6bb1668.png" /></p>
+   </details>
 
 - **[ObjMAE]** Object-wise Masked Autoencoders for Fast Pre-training | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2205.14338)
+   <details close>
+   <summary>ObjMAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017077-f987df1f-7607-4fa6-bebc-7253829c058e.png" /></p>
+   </details>
 
 - **[MAE-Lite]** A Closer Look at Self-Supervised Lightweight Vision Transformers | **[ICML'23]** | [`[paper]`](https://arxiv.org/abs/2205.14443) [`[code]`](https://github.com/wangsr126/mae-lite)
+   <details close>
+   <summary>MAE-Lite Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017113-8b961115-23d0-438c-b0e0-ffcbd639ec53.png" /></p>
+   </details>
 
 - **[SupMAE]** SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2205.14540) [`[code]`](https://github.com/enyac-group/supmae)
+   <details close>
+   <summary>SupMAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017126-3784511f-7583-4c09-9610-90775877a9d9.png" /></p>
+   </details>
 
 - **[HiViT]** HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2205.14949) [`[mmpretrian code]`](https://github.com/open-mmlab/mmpretrain)
+   <details close>
+   <summary>HiViT Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017144-18dbf120-f8a7-4149-b651-3fedc3269122.png" /></p>
+   </details>
 
 - **[LoMaR]** Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2206.00790) [`[code]`](https://github.com/junchen14/LoMaR)
+   <details close>
+   <summary>LoMaR Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017165-7854db74-446b-42c6-96d7-f2d89b8e8ccc.png" /></p>
+   </details>
 
 - **[SIM]** Siamese Image Modeling for Self-Supervised Vision Representation Learning | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2206.01204) [`[code]`](https://github.com/OpenGVLab/Siamese-Image-Modeling)
+   <details close>
+   <summary>SIM Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017191-9689d5b7-aab8-4e9f-99b9-386bcdcf46e5.png" /></p>
+   </details>
 
 - **[MFM]** Masked Frequency Modeling for Self-Supervised Visual Pre-Training | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2206.07706) [`[code]`](https://github.com/Jiahao000/MFM)
+   <details close>
+   <summary>MFM Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017228-86469272-c029-468b-ab0e-fb589bafd3bc.png" /></p>
+   </details>
 
 - **[BootMAE]** Bootstrapped Masked Autoencoders for Vision BERT Pretraining | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2207.07116) [`[code]`](https://github.com/LightDXY/BootMAE)
+   <details close>
+   <summary>BootMAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017260-45a0d61c-7d40-4a83-9849-34ed8d1cddd8.png" /></p>
+   </details>
 
 - **[CMAE]** Contrastive Masked Autoencoders are Stronger Vision Learners | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2207.13532) [`[code]`](https://github.com/ZhichengHuang/CMAE)
+   <details close>
+   <summary>CMAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017308-51b1ffeb-eaec-4b30-bb7a-2bed94a5f6f3.png" /></p>
+   </details>
 
 - **[SMD]** Improving Self-supervised Lightweight Model Learning via Hard-aware Metric Distillation | **[ECCV'22]** | [`[paper]`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910286.pdf) [`[code]`](https://github.com/liuhao-lh/SMD/tree/main)
+   <details close>
+   <summary>SMD Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017350-2fd6329b-7131-41f8-a6d8-8a7e0ac6bda2.png" /></p>
+   </details>
 
 - **[SdAE]** SdAE: Self-distillated Masked Autoencoder | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2208.00449) [`[code]`](https://github.com/AbrahamYabo/SdAE)
+   <details close>
+   <summary>SdAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017380-961241a1-af11-4962-8528-383a9c6f2b04.png" /></p>
+   </details>
 
 - **[MILAN]** MILAN: Masked Image Pretraining on Language Assisted Representation | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2208.06049) [`[code]`](https://github.com/zejiangh/MILAN)
+   <details close>
+   <summary>MILAN Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017407-2975d5f9-aa9f-4e74-b060-706c351d9147.png" /></p>
+   </details>
 
 - **[BEiTv2]** BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2208.06366) [`[code]`](https://github.com/microsoft/unilm)
+   <details close>
+   <summary>BEiTv2 Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017794-e9976a9d-f85c-4167-b425-12b8c3a5d845.png" /></p>
+    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017814-8b4aab8f-19ba-44b9-a714-6ddbb8de7668.png" /></p>
+   </details>
 
 - **[BEiTv3]** Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2208.10442) [`[code]`](https://github.com/microsoft/unilm)
+   <details close>
+   <summary>BEiTv3 Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017449-107f3b81-264b-4af5-aae1-e3444e33a436.png" /></p>
+   </details>
 
 - **[MaskCLIP]** MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2208.12262) [`[code]`](https://github.com/LightDXY/MaskCLIP)
+   <details close>
+   <summary>BEiTv3 Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017487-ac4c4cef-fd3e-423f-bc91-0d4e0c6e1925.png" /></p>
+   </details>
 
 - **[MimCo]** MimCo: Masked Image Modeling Pre-training with Contrastive Teacher | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2209.03063)
+   <details close>
+   <summary>MimCo Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017531-451d29ec-0e8f-490f-9f8d-68908fe8671d.png" /></p>
+   </details>
 
 - **[VICRegL]** VICRegL: Self-Supervised Learning of Local Visual Features | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.01571) [`[code]`](https://github.com/facebookresearch/VICRegL)
+   <details close>
+   <summary>VICRegL Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017555-c853ba70-b6b5-4f42-8df7-b6de044921b9.png" /></p>
+   </details>
 
 - **[SSLight]** Effective Self-supervised Pre-training on Low-compute Networks without Distillation | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2210.02808) [`[code]`](https://github.com/saic-fi/SSLight)
 

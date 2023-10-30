@@ -56,10 +56,22 @@ This is a paper list of self-supervised pretraining method for Light-weight Mode
 ## 2022
 
 - **[SimReg]** SimReg: Regression as a Simple Yet Effective Tool for Self-supervised Knowledge Distillation | **[BMVC'21]** | [`[paper]`](https://arxiv.org/abs/2201.05131) [`[code]`](https://github.com/UCDvision/simreg)
+   <details close>
+   <summary>SimReg Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278783628-166af556-d4e4-4db6-929c-bb4638bd8c2e.png" /></p>
+   </details>
 
 - **[MAE-Lite]** A Closer Look at Self-Supervised Lightweight Vision Transformers | **[ICML'23]** | [`[paper]`](https://arxiv.org/abs/2205.14443) [`[code]`](https://github.com/wangsr126/mae-lite)
+   <details close>
+   <summary>MAE-Lite Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017113-8b961115-23d0-438c-b0e0-ffcbd639ec53.png" /></p>
+   </details>
 
 - **[SMD]** Improving Self-supervised Lightweight Model Learning via Hard-aware Metric Distillation | **[ECCV'22]** | [`[paper]`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910286.pdf) [`[code]`](https://github.com/liuhao-lh/SMD/tree/main)
+   <details close>
+   <summary>SMD Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017350-2fd6329b-7131-41f8-a6d8-8a7e0ac6bda2.png" /></p>
+   </details>
 
 - **[SSLight]** Effective Self-supervised Pre-training on Low-compute Networks without Distillation | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2210.02808) [`[code]`](https://github.com/saic-fi/SSLight)
 
