@@ -356,55 +356,151 @@ In addition, papers are also categorized according to different topics. You can 
 - **[U-MAE]** How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.08344) [`[code]`](https://github.com/zhangq327/U-MAE)
 
 - **[i-MAE]** i-MAE: Are Latent Representations in Masked Autoencoders Linearly Separable? | **[axiv'22]** | [`[paper]`](https://arxiv.org/abs/2210.11470) [`[code]`](https://github.com/VILA-Lab/i-mae)
+   <details close>
+   <summary>i-MAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293573-650c324f-5580-42e6-857f-33a9fde517e6.png" /></p>
+   </details>
 
 - **[CAN]** A simple, efficient and scalable contrastive masked autoencoder for learning visual representations | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2210.16870) [`[code]`](https://github.com/shlokk/mae-contrastive)
+   <details close>
+   <summary>CAN Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293610-efa98556-8cfd-4184-908b-af47ad88f01d.png" /></p>
+   </details>
 
 - **[EVA]** EVA: Exploring the Limits of Masked Visual Representation Learning at Scale | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2211.07636) [`[code]`](https://github.com/baaivision/EVA)
+   <details close>
+   <summary>EVA Arch</summary>
+   <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/66102178/279293632-2b2397ac-ab5c-4c7d-8896-7200bb15d95b.png" /></p>
+   </details>
 
 - **[CAEv2]** CAE v2: Context Autoencoder with CLIP Target | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2211.09799)
+   <details close>
+   <summary>CAEv2 Arch</summary>
+   <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/66102178/279293651-6ca73d8c-d262-404d-93f4-5678918ddc3d.png" /></p>
+   </details>
 
 - **[iTPN]** Integrally Pre-Trained Transformer Pyramid Networks | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2211.12735) [`[code]`](https://github.com/sunsmarterjie/iTPN)
+   <details close>
+   <summary>iTPN Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293671-2ba443b3-5d5e-4b78-92af-ba544c7f6b6a.png" /></p>
+   </details>
 
 - **[SCFS]** Semantics-Consistent Feature Search for Self-Supervised Visual Representation Learning | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2212.06486) [`[code]`](https://github.com/skyoux/scfs)
+   <details close>
+   <summary>SCFS Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293684-8f45ed8d-153a-48e6-b328-3cf80131bbdc.png" /></p>
+   </details>
 
 - **[FastMIM]** FastMIM: Expediting Masked Image Modeling Pre-training for Vision | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2212.06593) [`[code]`](https://github.com/ggjy/FastMIM.pytorch)
+   <details close>
+   <summary>FastMIM Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293703-3b6ccccf-b150-49b3-b8b8-c8977491cff7.png" /></p>
+   </details>
 
 - **[Light-MoCo]** Establishing a stronger baseline for lightweight contrastive models | **[ICME'23]** | [`[paper]`](https://arxiv.org/abs/2212.07158)  [`[code]`](https://github.com/Linwenye/light-moco) [`[ICLR'23 under-review version]`](https://openreview.net/pdf?id=9CGiwZeCAd)
+   <details close>
+   <summary>Light-MoCo Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293730-035ea435-966a-4396-a73c-9a2e4cdeadd3.png" /></p>
+   </details>
 
 - **[Scale-MAE]** Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2212.14532)
+   <details close>
+   <summary>Scale-MAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293746-3ef633f8-2878-4314-b14e-15fb6eac499e.png" /></p>
+   </details>
 
 ## 2023
 
 - **[ConvNeXtv2]** ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2301.00808) [`[code]`](https://github.com/facebookresearch/ConvNeXt-V2)
+   <details close>
+   <summary>ConvNeXtv2 Arch</summary>
+   <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/66102178/279293774-0b04c28e-8852-4704-85fd-428f58e570ed.png" /></p>
+   </details>
 
 - **[Spark]** Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2301.03580) [`[code]`](https://github.com/keyu-tian/SparK)
+   <details close>
+   <summary>Spark Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293789-7f106316-0635-42f6-b67f-309652b32903.png" /></p>
+   </details>
 
 - **[I-JEPA]** Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2301.08243) [`[code]`](https://github.com/facebookresearch/ijepa)
+   <details close>
+   <summary>I-JEPA Arch</summary>
+   <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/66102178/279293807-e1f5fdbc-ba14-4902-b70a-a9c577dbb7e9.png" /></p>
+   </details>
 
 - **[RoB]** A Simple Recipe for Competitive Low-compute Self supervised Vision Models | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2301.09451)
+   <details close>
+   <summary>RoB Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293823-b9594220-366b-4645-bf5e-c1a95f81410a.png" /></p>
+   </details>
 
 - **[Layer Grafted]** Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations | **[ICLR'23]** | [`[paper]`](https://arxiv.org/abs/2302.14138) [`[code]`](https://github.com/VITA-Group/layerGraftedPretraining_ICLR23)
+   <details close>
+   <summary>Layer Grafted Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293841-f7f38afa-6121-408c-8d43-a5e1c3f5c10c.png" /></p>
+   </details>
 
 - **[PixMIM]** PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2303.02416) [`[code]`](https://github.com/open-mmlab/mmselfsup)
+   <details close>
+   <summary>PixMIM Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293855-868da4c3-ad67-4c36-8df0-e7ebb88fb075.png" /></p>
+   </details>
 
 - **[LocalMIM]** Masked Image Modeling with Local Multi-Scale Reconstruction | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2303.05251) [`[code]`](https://github.com/huawei-noah/Efficient-Computing/tree/master/Self-supervised/LocalMIM)
+   <details close>
+   <summary>LocalMIM Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293880-03bbb206-9c7f-42a6-80b0-c19504dc07ad.png" /></p>
+   </details>
  
 - **[MR-MAE]** Mimic before Reconstruct: Enhancing Masked Autoencoders with Feature Mimicking | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2303.05475)
+   <details close>
+   <summary>MR-MAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293915-81d80e37-7e57-4bac-889b-e0d1020fc577.png" /></p>
+   </details>
 
 - **[MixedAE]** Mixed Autoencoder for Self-supervised Visual Representation Learning | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2303.17152)
+   <details close>
+   <summary>MixedAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293942-ae68ace0-725a-4b4e-a494-6321dbe8dd30.png" /></p>
+   </details>
 
 - **[EMP]** EMP-SSL: Towards Self-Supervised Learning in One Training Epoch | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2304.03977) [`[code]`](https://github.com/tsb0601/EMP-SSL)
+   <details close>
+   <summary>EMP Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293962-94c6168d-4e60-4883-b9b7-f9e2e662863a.png" /></p>
+   </details>
 
 - **[DINOv2]** DINOv2：Learning Robust Visual Features without Supervision | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2304.07193) [`[code]`](https://github.com/facebookresearch/dinov2)
 
 - **[CL-vs-MIM]** What Do Self-Supervised Vision Transformers Learn? | **[ICLR'23]** |[`[paper]`](https://arxiv.org/abs/2305.00729) [`[code]`](https://github.com/naver-ai/cl-vs-mim)
 
 - **[SiamMAE]** Siamese Masked Autoencoders | **[NIPS'23]** | [`[paper]`](https://arxiv.org/abs/2305.14344)
+   <details close>
+   <summary>SiamMAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293985-7c58e776-de93-440d-878c-f3f596dfea5a.png" /></p>
+   </details>
 
 - **[ccMIM]** Contextual Image Masking Modeling via Synergized Contrasting without View Augmentation for Faster and Better Visual Pretraining | **[ICLR'23]** | [`[paper]`](https://openreview.net/pdf?id=A3sgyt4HWp) [`[code]`](https://github.com/Sherrylone/ccMIM)
+   <details close>
+   <summary>ccMIM Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279294010-0d90109e-bab9-4377-9848-19efcdf73f8a.png" /></p>
+   </details>
 
 - **[DreamTeacher]** DreamTeacher: Pretraining Image Backbones with Deep Generative Models | **[ICCV'23]** |[`[paper]`](https://arxiv.org/abs/2307.07487)
+   <details close>
+   <summary>DreamTeacher Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279294020-e461e141-1ccb-471f-9520-bf880c615843.png" /></p>
+   </details>
 
 - **[MFF]** Improving Pixel-based MIM by Reducing Wasted Modeling Capability | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2308.00261) [`[code]`](https://github.com/open-mmlab/mmpretrain)
+   <details close>
+   <summary>MFF Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279294038-118cb80c-2479-4b7e-a6b0-6e44e7d745a6.png" /></p>
+   </details>
 
 - **[DropPos]** DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions | **[NIPS'23]** | [`[paper]`](https://arxiv.org/abs/2309.03576) [`[code]`](https://github.com/Haochen-Wang409/DropPos)
+   <details close>
+   <summary>DropPos Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279294057-a4f7f653-18fa-4d44-ad27-f30eb4d5e02c.png" /></p>
+   </details>
