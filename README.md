@@ -6,6 +6,11 @@ In addition, papers are also categorized according to different topics. You can 
 - [Contrastive Learning/Joint Embedding](Contrastive_Learning.md)
 - [Masked Image Modeling](Masked_Image_Modeling.md)
 - [Light-weight Model Pretraing](Light-weight_Model_Pretraining.md)
+- [CNN Pretraing]()
+- [ViT Pretraining]()
+- [Hierarchical Model Pretraining]()
+- [Dense Prediction Model Pretraining]()
+- [Large Vision Model/Foundation Model Pretraining]()
 - updating ···
 
 
