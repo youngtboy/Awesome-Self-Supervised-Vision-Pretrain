@@ -3,8 +3,9 @@ This is a paper list of self-supervised pretraining method. All papers are liste
 
 In addition, papers are also categorized according to different topics. You can click on the links below to get related papers on the topics you are interested in.
 
-
-- [Self-Supervised Pretraining for Light-weight Model](Self-Supervised_Pretraining_for_Light-weight_Model.md)
+- [Contrastive Learning/Joint Embedding](Contrastive_Learning_or_Joint_Embedding.md)
+- [Masked Image Modeling](Masked_Image_Modeling.md)
+- [Light-weight Model Pretraing](Light-weight_Model_Pretraining.md)
 - updating ···
 
 
