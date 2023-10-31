@@ -157,6 +157,8 @@ This is a paper list of Contrastive Learing/Joint Embedding based self-supervise
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293684-8f45ed8d-153a-48e6-b328-3cf80131bbdc.png" /></p>
    </details>
 
+## 2023
+
 - **[I-JEPA]** Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2301.08243) [`[code]`](https://github.com/facebookresearch/ijepa)
    <details close>
    <summary>I-JEPA Arch</summary>
