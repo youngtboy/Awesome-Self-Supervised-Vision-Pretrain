@@ -82,6 +82,12 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/278526068-55cb1d88-2d59-44a3-a998-a2238886f4db.png" /></p>
    </details>
 
+- **[ALIGN]** Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision | **[ICML'21]** | [`[paper]`](https://arxiv.org/abs/2102.05918)
+   <details close>
+   <summary>ALIGN Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/281976273-b7d063e9-1c52-4f51-8988-5da692984f8e.png" /></p>
+   </details>
+
 - **[CLIP]** 🌟 Learning Transferable Visual Models From Natural Language Supervision | **[ICML'21]** | [`[paper]`](https://arxiv.org/abs/2103.00020) [`[code]`](https://github.com/OpenAI/CLIP)
    <details close>
    <summary>CLIP Arch</summary>
