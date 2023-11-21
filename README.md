@@ -455,7 +455,7 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[G2SD]** Generic-to-Specific Distillation of Masked Autoencoders | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2302.14771) [`[code]`](https://github.com/pengzhiliang/G2SD)
    <details close>
-   <summary>Layer Grafted Arch</summary>
+   <summary>G2SD Arch</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/284453784-26498350-f7fa-4601-8b49-c9455e3f936f.png" /></p>
    </details>
 
