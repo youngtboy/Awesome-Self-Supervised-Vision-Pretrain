@@ -453,6 +453,12 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293841-f7f38afa-6121-408c-8d43-a5e1c3f5c10c.png" /></p>
    </details>
 
+- **[G2SD]** Generic-to-Specific Distillation of Masked Autoencoders | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2302.14771) [`[code]`](https://github.com/pengzhiliang/G2SD)
+   <details close>
+   <summary>Layer Grafted Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/284453784-26498350-f7fa-4601-8b49-c9455e3f936f.png" /></p>
+   </details>
+
 - **[PixMIM]** PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2303.02416) [`[code]`](https://github.com/open-mmlab/mmselfsup)
    <details close>
    <summary>PixMIM Arch</summary>
