@@ -477,6 +477,12 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293915-81d80e37-7e57-4bac-889b-e0d1020fc577.png" /></p>
    </details>
 
+- **[Overcoming-Pretraining-Bias]** Overwriting Pretrained Bias with Finetuning Data | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2303.05475) [`[code]`](https://github.com/princetonvisualai/overcoming-pretraining-bias)
+   <details close>
+   <summary>Overcoming-Pretraining-Bias Arch</summary>
+   <p align="center"><img width="90%" src="" /></p>
+   </details>
+
 - **[MixedAE]** Mixed Autoencoder for Self-supervised Visual Representation Learning | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2303.17152)
    <details close>
    <summary>MixedAE Arch</summary>
@@ -521,4 +527,10 @@ In addition, papers are also categorized according to different topics. You can 
    <details close>
    <summary>DropPos Arch</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279294057-a4f7f653-18fa-4d44-ad27-f30eb4d5e02c.png" /></p>
+   </details>
+
+- **[Registers]** Vision Transformers Need Registers | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2309.16588) [`[code]`](https://github.com/facebookresearch/dinov2)
+   <details close>
+   <summary>Registers Arch</summary>
+   <p align="center"><img width="90%" src="" /></p>
    </details>
