@@ -480,7 +480,7 @@ In addition, papers are also categorized according to different topics. You can 
 - **[Overcoming-Pretraining-Bias]** Overwriting Pretrained Bias with Finetuning Data | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2303.05475) [`[code]`](https://github.com/princetonvisualai/overcoming-pretraining-bias)
    <details close>
    <summary>Overcoming-Pretraining-Bias Arch</summary>
-   <p align="center"><img width="90%" src="" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/285569041-4b8d86b7-cab7-4381-9bef-8a3560280f18.png" /></p>
    </details>
 
 - **[MixedAE]** Mixed Autoencoder for Self-supervised Visual Representation Learning | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2303.17152)
@@ -532,5 +532,5 @@ In addition, papers are also categorized according to different topics. You can 
 - **[Registers]** Vision Transformers Need Registers | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2309.16588) [`[code]`](https://github.com/facebookresearch/dinov2)
    <details close>
    <summary>Registers Arch</summary>
-   <p align="center"><img width="90%" src="" /></p>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/285569143-e909c808-3a68-449a-bd22-8ea17f942384.png" /></p>
    </details>
