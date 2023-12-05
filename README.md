@@ -534,3 +534,9 @@ In addition, papers are also categorized according to different topics. You can 
    <summary>Registers Arch</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/285569143-e909c808-3a68-449a-bd22-8ea17f942384.png" /></p>
    </details>
+
+- **[D-iGPT]** Rejuvenating image-GPT as Strong Visual Representation Learners | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2312.02147) [`[code]`](https://github.com/OliverRensu/D-iGPT)
+   <details close>
+   <summary>D-iGPT Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/287959167-c5c3b2a4-2868-4461-a8ef-af1bef4daa34.png" /></p>
+   </details>
