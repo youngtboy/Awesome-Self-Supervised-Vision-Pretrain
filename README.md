@@ -541,6 +541,8 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/287959167-c5c3b2a4-2868-4461-a8ef-af1bef4daa34.png" /></p>
    </details>
 
+- **[SynCLR]**  Learning Vision from Models Rivals Learning Vision from Data | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2312.17742) [`[code]`](https://github.com/google-research/syn-rep-learn)
+
 ## 2024
 - **[AIM]** Scalable Pre-training of Large Autoregressive Image Models | **[arxiv'24]** | [`[paper]`](https://arxiv.org/abs/2401.08541) [`[code]`](https://github.com/apple/ml-aim)
    <details close>
