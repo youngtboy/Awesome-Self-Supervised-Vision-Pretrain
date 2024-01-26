@@ -549,3 +549,8 @@ In addition, papers are also categorized according to different topics. You can 
    <summary>AIM Arch</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/297312612-f5aa4d62-9930-4967-955f-5d84a268a63c.png" /></p>
    </details>
+
+- **[CrossMAE]** Rethinking Patch Dependence for Masked Autoencoders | **[arxiv'24]** | [`[paper]`](https://arxiv.org/abs/2401.14391) [`[code]`](https://github.com/TonyLianLong/CrossMAE)
+   <details close>
+   <summary>CrossMAE Arch</summary>
+   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/299916031-33101abf-10a7-4989-bedb-91cad8928fbd.png" /></p>
