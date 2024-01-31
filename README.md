@@ -553,4 +553,11 @@ In addition, papers are also categorized according to different topics. You can 
 - **[CrossMAE]** Rethinking Patch Dependence for Masked Autoencoders | **[arxiv'24]** | [`[paper]`](https://arxiv.org/abs/2401.14391) [`[code]`](https://github.com/TonyLianLong/CrossMAE)
    <details close>
    <summary>CrossMAE Arch</summary>
-   <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/299916031-33101abf-10a7-4989-bedb-91cad8928fbd.png" /></p>
+   <p align="center"><img width="90%" src="https://private-user-images.githubusercontent.com/66102178/301049334-d5648ac5-37cc-4cc3-9751-4a94a70a3da1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2Nzk3MjgsIm5iZiI6MTcwNjY3OTQyOCwicGF0aCI6Ii82NjEwMjE3OC8zMDEwNDkzMzQtZDU2NDhhYzUtMzdjYy00Y2MzLTk3NTEtNGE5NGE3MGEzZGExLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDA1MzcwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiMDI3MWZjMGYzMTMxZjI4YzY3NmVmMDQxNzVmNjM2MjRhMTgwZDUxMWUxM2NmZTliYmUwNzkwNWI5ZjY1YWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.84_qSjzz7LK6nadov0UgYLv3HtGkKrV-BpLpOMkQu0E" /></p>
+   </details>
+
+- **[Cross-Scale MAE]** Cross-Scale MAE: A Tale of Multi-Scale Exploitation in Remote Sensing  | **[NIPS'23]** | [`[paper]`](https://arxiv.org/abs/2401.15855) [`[code]`](https://github.com/aicip/Cross-Scale-MAE)
+   <details close>
+   <summary>Cross-Scale MAE Arch</summary>
+   <p align="center"><img width="90%" src="https://private-user-images.githubusercontent.com/66102178/301049433-9648beeb-c371-4a42-b8ae-c49ee184f0be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2Nzk3MjgsIm5iZiI6MTcwNjY3OTQyOCwicGF0aCI6Ii82NjEwMjE3OC8zMDEwNDk0MzMtOTY0OGJlZWItYzM3MS00YTQyLWI4YWUtYzQ5ZWUxODRmMGJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDA1MzcwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmNWE2NWM0ZTQ1NjBiMmFkYzU3MmVlZTQzMWNiOTZhZjE3ZmU0NTg4NzFmMWFiYzFkZThiMjZkMDQ4YWY3NjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.D4H_zvkd9FJYR2AfFdN2IVcNE6Qhpel9vpOX3tqnwJw" /></p>
+   </details>
