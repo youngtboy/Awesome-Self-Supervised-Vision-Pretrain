@@ -569,3 +569,6 @@ In addition, papers are also categorized according to different topics. You can 
    <summary>MIM-Refiner Arch</summary>
    <p align="center"><img width="90%" src="https://private-user-images.githubusercontent.com/66102178/305323909-fa6df093-0ba7-4660-b6ed-e267bd14ec5b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgwNjUxNTIsIm5iZiI6MTcwODA2NDg1MiwicGF0aCI6Ii82NjEwMjE3OC8zMDUzMjM5MDktZmE2ZGYwOTMtMGJhNy00NjYwLWI2ZWQtZTI2N2JkMTRlYzViLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE2VDA2MjczMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjMzMxYTRkNmRiODM4Yzk5N2NkNTA0YjA1ZmM5NDY5MmYyNDlhMzhlMDljODc2YjBiMGQxZDc1YmUwOWI1MjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8TVuofJzN228rLNLxlVz8S9qbKl6gi_0qm6-L-cD0Hw" /></p>
    </details>
+
+- **[SatMAE++]** Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery | **[CVPR'24]** | [`[paper]`](https://arxiv.org/abs/2403.05419) [`[code]`](https://github.com/techmn/satmae_pp)
+
