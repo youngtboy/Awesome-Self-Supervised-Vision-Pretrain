@@ -485,6 +485,10 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/285569041-4b8d86b7-cab7-4381-9bef-8a3560280f18.png" /></p>
    </details>
 
+- **[EVA-02]** EVA-02: A Visual Representation for Neon Genesis | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2303.11331) [`[code]`](https://github.com/baaivision/EVA)
+
+- **[EVA-CLIP]** EVA-CLIP: Improved Training Techniques for CLIP at Scale | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2303.15389) [`[code]`](https://github.com/baaivision/EVA)
+  
 - **[MixedAE]** Mixed Autoencoder for Self-supervised Visual Representation Learning | **[CVPR'23]** | [`[paper]`](https://arxiv.org/abs/2303.17152)
    <details close>
    <summary>MixedAE Arch</summary>
@@ -563,6 +567,8 @@ In addition, papers are also categorized according to different topics. You can 
    <summary>Cross-Scale MAE Arch</summary>
    <p align="center"><img width="90%" src="https://private-user-images.githubusercontent.com/66102178/301049433-9648beeb-c371-4a42-b8ae-c49ee184f0be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2Nzk3MjgsIm5iZiI6MTcwNjY3OTQyOCwicGF0aCI6Ii82NjEwMjE3OC8zMDEwNDk0MzMtOTY0OGJlZWItYzM3MS00YTQyLWI4YWUtYzQ5ZWUxODRmMGJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDA1MzcwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmNWE2NWM0ZTQ1NjBiMmFkYzU3MmVlZTQzMWNiOTZhZjE3ZmU0NTg4NzFmMWFiYzFkZThiMjZkMDQ4YWY3NjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.D4H_zvkd9FJYR2AfFdN2IVcNE6Qhpel9vpOX3tqnwJw" /></p>
    </details>
+
+- **[EVA-CLIP-18B]** EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters | **[arxiv'24]** | [`[paper]`](https://arxiv.org/abs/2402.04252) [`[code]`](https://github.com/baaivision/EVA)
 
 - **[MIM-Refiner]** MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations | **[arxiv'24]** | [`[paper]`](https://arxiv.org/abs/2402.10093) [`[code]`](https://github.com/ml-jku/MIM-Refiner)
    <details close>
