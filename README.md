@@ -308,6 +308,8 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279017260-45a0d61c-7d40-4a83-9849-34ed8d1cddd8.png" /></p>
    </details>
 
+- **[SatMAE]** SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery | **[NIPS22]** | [`[paper]`](https://arxiv.org/abs/2207.08051) [`[code]`](https://github.com/sustainlab-group/SatMAE)
+
 - **[CMAE]** Contrastive Masked Autoencoders are Stronger Vision Learners | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2207.13532) [`[code]`](https://github.com/ZhichengHuang/CMAE)
    <details close>
    <summary>CMAE Arch</summary>
