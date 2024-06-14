@@ -543,6 +543,8 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/285569143-e909c808-3a68-449a-bd22-8ea17f942384.png" /></p>
    </details>
 
+- **[AMD]** Asymmetric Masked Distillation for Pre-Training Small Foundation Models | **[CVPR'24]** | [`[paper]`](https://arxiv.org/abs/2311.03149) [`[code]`](https://github.com/MCG-NJU/AMD)
+
 - **[D-iGPT]** Rejuvenating image-GPT as Strong Visual Representation Learners | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2312.02147) [`[code]`](https://github.com/OliverRensu/D-iGPT)
    <details close>
    <summary>D-iGPT Arch</summary>
