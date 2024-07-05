@@ -582,4 +582,6 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[SatMAE++]** Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery | **[CVPR'24]** | [`[paper]`](https://arxiv.org/abs/2403.05419) [`[code]`](https://github.com/techmn/satmae_pp)
 
+- **[CropMAE]** Efficient Image Pre-Training with Siamese Cropped Masked Autoencoders | **[ECCV'24]** | [`[paper]`](https://arxiv.org/abs/2403.17823) [`[code]`](https://github.com/alexandre-eymael/CropMAE)
+
 - **[Retro]** Retro: Reusing teacher projection head for efficient embedding distillation on Lightweight Models via Self-supervised Learning | **[arxiv'24]** | [`[paper]`](https://arxiv.org/abs/2405.15311) [`[ICLR'24 under-review version]`](https://openreview.net/pdf?id=2GMTfqr7eb)
