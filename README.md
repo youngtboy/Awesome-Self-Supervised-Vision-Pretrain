@@ -587,3 +587,5 @@ In addition, papers are also categorized according to different topics. You can 
 - **[Retro]** Retro: Reusing teacher projection head for efficient embedding distillation on Lightweight Models via Self-supervised Learning | **[arxiv'24]** | [`[paper]`](https://arxiv.org/abs/2405.15311) [`[ICLR'24 under-review version]`](https://openreview.net/pdf?id=2GMTfqr7eb)
 
 - **[MaSSL]** Learning from Memory: Non-Parametric Memory Augmented Self-Supervised Learning of Visual Features | **[ICML'24]** | [`[paper]`](https://arxiv.org/abs/2407.17486) [`[code]`](https://github.com/sthalles/MaSSL)
+
+- **[SINDER]** SINDER: Repairing the Singular Defects of DINOv2 | **[ECCV'24]** | [`[paper]`](https://arxiv.org/pdf/2407.16826) [`[code]`](https://github.com/haoqiwang/sinder)
