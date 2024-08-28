@@ -589,3 +589,5 @@ In addition, papers are also categorized according to different topics. You can 
 - **[MaSSL]** Learning from Memory: Non-Parametric Memory Augmented Self-Supervised Learning of Visual Features | **[ICML'24]** | [`[paper]`](https://arxiv.org/abs/2407.17486) [`[code]`](https://github.com/sthalles/MaSSL)
 
 - **[SINDER]** SINDER: Repairing the Singular Defects of DINOv2 | **[ECCV'24]** | [`[paper]`](https://arxiv.org/pdf/2407.16826) [`[code]`](https://github.com/haoqiwang/sinder)
+
+- **[MICM]** MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning | **[ACM MM'24]** | [`[paper]`](https://arxiv.org/abs/2408.13385) [`[code]`](https://github.com/iCGY96/MICM)
