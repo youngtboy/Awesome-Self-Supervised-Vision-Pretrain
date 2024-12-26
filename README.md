@@ -543,6 +543,8 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/285569143-e909c808-3a68-449a-bd22-8ea17f942384.png" /></p>
    </details>
 
+- **[MetaCLIP]** Demystifying CLIP Data | **[ICLR'24]** | [`[paper]`](https://arxiv.org/pdf/2309.16671) [`[code]`](https://github.com/facebookresearch/MetaCLIP)
+
 - **[AMD]** Asymmetric Masked Distillation for Pre-Training Small Foundation Models | **[CVPR'24]** | [`[paper]`](https://arxiv.org/abs/2311.03149) [`[code]`](https://github.com/MCG-NJU/AMD)
 
 - **[D-iGPT]** Rejuvenating image-GPT as Strong Visual Representation Learners | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2312.02147) [`[code]`](https://github.com/OliverRensu/D-iGPT)
@@ -587,6 +589,8 @@ In addition, papers are also categorized according to different topics. You can 
 - **[CropMAE]** Efficient Image Pre-Training with Siamese Cropped Masked Autoencoders | **[ECCV'24]** | [`[paper]`](https://arxiv.org/abs/2403.17823) [`[code]`](https://github.com/alexandre-eymael/CropMAE)
 
 - **[Retro]** Retro: Reusing teacher projection head for efficient embedding distillation on Lightweight Models via Self-supervised Learning | **[arxiv'24]** | [`[paper]`](https://arxiv.org/abs/2405.15311) [`[ICLR'24 under-review version]`](https://openreview.net/pdf?id=2GMTfqr7eb)
+
+- **[ssl-data-curation]** Automatic Data Curation for Self-Supervised Learning: A Clustering-Based Approach | **[arxiv'24]** | [`[paper]`](https://arxiv.org/pdf/2405.15613) [`[code]`](https://github.com/facebookresearch/ssl-data-curation)
 
 - **[MaSSL]** Learning from Memory: Non-Parametric Memory Augmented Self-Supervised Learning of Visual Features | **[ICML'24]** | [`[paper]`](https://arxiv.org/abs/2407.17486) [`[code]`](https://github.com/sthalles/MaSSL)
 
