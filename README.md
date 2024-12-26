@@ -593,3 +593,5 @@ In addition, papers are also categorized according to different topics. You can 
 - **[SINDER]** SINDER: Repairing the Singular Defects of DINOv2 | **[ECCV'24]** | [`[paper]`](https://arxiv.org/pdf/2407.16826) [`[code]`](https://github.com/haoqiwang/sinder)
 
 - **[MICM]** MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning | **[ACM MM'24]** | [`[paper]`](https://arxiv.org/abs/2408.13385) [`[code]`](https://github.com/iCGY96/MICM)
+
+- **[dino.txt]** DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment | **[arxiv'24]** | [`[paper]`](https://www.arxiv.org/pdf/2412.16334)
