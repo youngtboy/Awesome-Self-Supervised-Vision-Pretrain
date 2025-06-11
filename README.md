@@ -29,6 +29,7 @@ In addition, papers are also categorized according to different topics. You can 
    <summary>SimCLRv1 Arch</summary>
    <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/66102178/278521501-9b04ab1f-e359-4a52-8b0a-c3a794bac1cb.png" /></p>
    </details>
+- How Useful is Self-Supervised Pretraining for Visual Tasks? | **[CVPR'20]** | [`[paper]`](https://arxiv.org/abs/2003.14323)
 
 - **[MoCov2]** Improved Baselines with Momentum Contrastive Learning | **[arxiv'20]** | [`[paper]`](https://arxiv.org/abs/2003.04297) [`[code]`](https://github.com/facebookresearch/moco)
    <details close>
