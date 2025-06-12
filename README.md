@@ -614,4 +614,6 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[FG-CLIP]** FG-CLIP: Fine-Grained Visual and Textual Alignment | **[ICML'25]** | [`[paper]`](https://arxiv.org/abs/2505.05071) [`[code]`](https://github.com/360CVGroup/FG-CLIP)
 
+-  **[test-time registers]** Vision Transformers Don’t Need Trained Registers | **[arxiv'25]** | [`[paper]`](https://www.arxiv.org/pdf/2506.08010) [`[code]`](https://github.com/nickjiang2378/test-time-registers)
+
 
