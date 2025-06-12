@@ -601,6 +601,8 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[MICM]** MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning | **[ACM MM'24]** | [`[paper]`](https://arxiv.org/abs/2408.13385) [`[code]`](https://github.com/iCGY96/MICM)
 
+- **[AIMv2]** Multimodal Autoregressive Pre-training of Large Vision Encoders  | **[CVPR'25]** | [`[paper]`](https://arxiv.org/pdf/2411.14402) [`[code]`](https://github.com/apple/ml-aim)
+
 - **[dino.txt]** DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment | **[arxiv'24]** | [`[paper]`](https://www.arxiv.org/pdf/2412.16334)
 
 ## 2025
