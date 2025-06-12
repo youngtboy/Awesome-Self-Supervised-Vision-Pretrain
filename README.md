@@ -608,3 +608,6 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[Web-SSL]** Scaling Language-Free Visual Representation Learning | **[arxiv'25]** | [`[paper]`](https://arxiv.org/pdf/2504.01017) [`[code]`](https://github.com/dfan/webssl)
 
+- **[FG-CLIP]** FG-CLIP: Fine-Grained Visual and Textual Alignment | **[ICML'25]** | [`[paper]`](https://arxiv.org/abs/2505.05071) [`[code]`](https://github.com/360CVGroup/FG-CLIP)
+
+
