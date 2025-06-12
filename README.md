@@ -520,6 +520,8 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279294010-0d90109e-bab9-4377-9848-19efcdf73f8a.png" /></p>
    </details>
 
+- **[MaskSub]** Masking meets Supervision: A Strong Learning Alliance | **[CVPR'25]** |[`[paper]`](https://arxiv.org/pdf/2306.11339) [`[code]`](https://github.com/naver-ai/augsub)
+
 - **[DreamTeacher]** DreamTeacher: Pretraining Image Backbones with Deep Generative Models | **[ICCV'23]** |[`[paper]`](https://arxiv.org/abs/2307.07487)
    <details close>
    <summary>DreamTeacher Arch</summary>
