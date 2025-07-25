@@ -618,4 +618,6 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[AB]** Visual Pre-Training on Unlabeled Images using Reinforcement Learning | **[arxiv'25]** | [`[paper]`](https://arxiv.org/abs/2506.11967)
 
+- **[Franca]** Nested Matryoshka Clustering for Scalable Visual Representation Learning | **[arxiv'25]** | [`[paper]`](https://arxiv.org/abs/2507.14137) [`[code]`](https://github.com/valeoai/Franca)
+
 
