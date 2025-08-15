@@ -504,7 +504,7 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/279293962-94c6168d-4e60-4883-b9b7-f9e2e662863a.png" /></p>
    </details>
 
-- **[DINOv2]** DINOv2：Learning Robust Visual Features without Supervision | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2304.07193) [`[code]`](https://github.com/facebookresearch/dinov2)
+- **[DINOv2]** 🌟 DINOv2：Learning Robust Visual Features without Supervision | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2304.07193) [`[code]`](https://github.com/facebookresearch/dinov2)
 
 - **[CL-vs-MIM]** What Do Self-Supervised Vision Transformers Learn? | **[ICLR'23]** |[`[paper]`](https://arxiv.org/abs/2305.00729) [`[code]`](https://github.com/naver-ai/cl-vs-mim)
 
@@ -622,5 +622,5 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[Franca]** Nested Matryoshka Clustering for Scalable Visual Representation Learning | **[arxiv'25]** | [`[paper]`](https://arxiv.org/abs/2507.14137) [`[code]`](https://github.com/valeoai/Franca)
 
-- **[DINOv3]** DINOv3 | **[meta'25]** | [`[paper]`](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/531524719_1692810264763997_2330122477414087224_n.pdf?_nc_cat=103&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=rWT0y-myJjoQ7kNvwG_YbdM&_nc_oc=AdmuAf52VkcN-wNCGOO_oeAwmakX3lmDPh7sZ3toprU3YOBvyHG2KhcX9DAiFlvFyc4&_nc_zt=14&_nc_ht=scontent-hkg1-2.xx&_nc_gid=LXpG0E7FJcKlXVe4WEtysw&oh=00_AfWLTOY8nuyjW39TB7hpeMqnTcaBo4IMdDHuEH6BcrRT6g&oe=68A46028) [`[code]`](https://github.com/facebookresearch/dinov3)
+- **[DINOv3]** 🌟 DINOv3 | **[meta'25]** | [`[paper]`](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/531524719_1692810264763997_2330122477414087224_n.pdf?_nc_cat=103&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=rWT0y-myJjoQ7kNvwG_YbdM&_nc_oc=AdmuAf52VkcN-wNCGOO_oeAwmakX3lmDPh7sZ3toprU3YOBvyHG2KhcX9DAiFlvFyc4&_nc_zt=14&_nc_ht=scontent-hkg1-2.xx&_nc_gid=LXpG0E7FJcKlXVe4WEtysw&oh=00_AfWLTOY8nuyjW39TB7hpeMqnTcaBo4IMdDHuEH6BcrRT6g&oe=68A46028) [`[code]`](https://github.com/facebookresearch/dinov3)
 
