@@ -613,6 +613,8 @@ In addition, papers are also categorized according to different topics. You can 
 - **[USP]** USP: Unified Self-Supervised Pretraining for Image Generation and Understanding | **[ICCV'25]** | [`[paper]`](https://arxiv.org/abs/2503.06132) [`[code]`](https://github.com/AMAP-ML/USP)
 
 - **[Web-SSL]** Scaling Language-Free Visual Representation Learning | **[arxiv'25]** | [`[paper]`](https://arxiv.org/pdf/2504.01017) [`[code]`](https://github.com/dfan/webssl)
+  
+- **[PE]** Perception Encoder: The best visual embeddings are not at the output of the network  | **[arxiv'25]** | [`[paper]`](https://arxiv.org/abs/2504.13181) [`[code]`](https://github.com/facebookresearch/perception_models)
 
 - **[FG-CLIP]** FG-CLIP: Fine-Grained Visual and Textual Alignment | **[ICML'25]** | [`[paper]`](https://arxiv.org/abs/2505.05071) [`[code]`](https://github.com/360CVGroup/FG-CLIP)
 
