@@ -556,6 +556,8 @@ In addition, papers are also categorized according to different topics. You can 
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/66102178/287959167-c5c3b2a4-2868-4461-a8ef-af1bef4daa34.png" /></p>
    </details>
 
+- **[AM-RADIO]**  AM-RADIO: Agglomerative Vision Foundation Model Reduce All Domains Into One | **[CVPR'24]** | [`[paper]`](https://arxiv.org/abs/2312.06709) [`[code]`](https://github.com/NVlabs/RADIO)
+
 - **[SynCLR]**  Learning Vision from Models Rivals Learning Vision from Data | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2312.17742) [`[code]`](https://github.com/google-research/syn-rep-learn)
 
 ## 2024
@@ -603,7 +605,9 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[AIMv2]** Multimodal Autoregressive Pre-training of Large Vision Encoders | **[CVPR'25]** | [`[paper]`](https://arxiv.org/pdf/2411.14402) [`[code]`](https://github.com/apple/ml-aim)
 
-- **[LIxP]** Context-Aware Multimodal Pretraining | **[CVPR'25]** | [`[paper]`](https://arxiv.org/pdf/2411.15099) 
+- **[LIxP]** Context-Aware Multimodal Pretraining | **[CVPR'25]** | [`[paper]`](https://arxiv.org/pdf/2411.15099)
+
+- **[RADIOv2.5]** RADIOv2.5: Improved Baselines for Agglomerative Vision Foundation Models  | **[CVPR'25]** | [`[paper]`](https://arxiv.org/abs/2412.07679) [`[code]`](https://github.com/NVlabs/RADIO)
 
 - **[dino.txt]** DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment | **[arxiv'24]** | [`[paper]`](https://www.arxiv.org/pdf/2412.16334)
 
@@ -627,5 +631,6 @@ In addition, papers are also categorized according to different topics. You can 
 - **[DINOv3]** 🌟 DINOv3 | **[meta'25]** | [`[paper]`](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/531524719_1692810264763997_2330122477414087224_n.pdf?_nc_cat=103&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=rWT0y-myJjoQ7kNvwG_YbdM&_nc_oc=AdmuAf52VkcN-wNCGOO_oeAwmakX3lmDPh7sZ3toprU3YOBvyHG2KhcX9DAiFlvFyc4&_nc_zt=14&_nc_ht=scontent-hkg1-2.xx&_nc_gid=LXpG0E7FJcKlXVe4WEtysw&oh=00_AfWLTOY8nuyjW39TB7hpeMqnTcaBo4IMdDHuEH6BcrRT6g&oe=68A46028) [`[code]`](https://github.com/facebookresearch/dinov3)
 
 ## 2026
+- **[C-RADIOv4]** C-RADIOv4 (Tech Report) | **[arxiv'26]** | | [`[paper]`](https://arxiv.org/pdf/2601.17237)  [`[code]`](https://github.com/NVlabs/RADIO) 
 - **[EUPE]** Efficient Universal Perception Encoder | **[arxiv'26]** | | [`[paper]`](https://arxiv.org/abs/2603.22387)  [`[code]`](https://github.com/facebookresearch/EUPE)
 - **[TIPSv2]** TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment | **[CVPR'26]** | | [`[paper]`](https://arxiv.org/pdf/2604.12012)  [`[code]`](https://github.com/google-deepmind/tips)
