@@ -522,6 +522,8 @@ In addition, papers are also categorized according to different topics. You can 
 
 - **[MaskSub]** Masking meets Supervision: A Strong Learning Alliance | **[CVPR'25]** |[`[paper]`](https://arxiv.org/pdf/2306.11339) [`[code]`](https://github.com/naver-ai/augsub)
 
+- **[NaViT]** Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution | **[arxiv'23]** |[`[paper]`](https://arxiv.org/abs/2307.06304)
+
 - **[DreamTeacher]** DreamTeacher: Pretraining Image Backbones with Deep Generative Models | **[ICCV'23]** |[`[paper]`](https://arxiv.org/abs/2307.07487)
    <details close>
    <summary>DreamTeacher Arch</summary>
