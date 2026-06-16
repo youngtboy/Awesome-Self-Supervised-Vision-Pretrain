@@ -644,3 +644,5 @@ In addition, papers are also categorized according to different topics. You can 
 - **[EUPE]** Efficient Universal Perception Encoder | **[arxiv'26]** | | [`[paper]`](https://arxiv.org/abs/2603.22387)  [`[code]`](https://github.com/facebookresearch/EUPE)
 - **[TIPSv2]** TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment | **[CVPR'26]** | | [`[paper]`](https://arxiv.org/pdf/2604.12012)  [`[code]`](https://github.com/google-deepmind/tips)
 - **[COM-PT]** Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models | **[CVPR'26]** | | [`[paper]`](https://arxiv.org/abs/2604.12391)  [`[code]`](https://github.com/deep-optimization/CoM-PT)
+- **[VISReg]** VISReg: Variance-Invariance-Sketching Regularization for JEPA training | **[arxiv'26]** | | [`[paper]`](https://arxiv.org/abs/2606.02572)  [`[code]`](https://github.com/HaiyuWu/visreg)
+
